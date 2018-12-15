@@ -1,0 +1,19 @@
+{
+  "name": "mysqldumptos3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.376.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.23.0",
+    "moment-timezone": "^0.5.23",
+    "mysqldump": "^2.2.1",
+    "tar": "^4.4.8"
+  }
+}
