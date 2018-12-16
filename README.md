@@ -12,7 +12,7 @@ npm install -g node-lambda
 
 ## Usage
 
-add configuration settings to env file. Configure `dbhost` and
+add configuration settings to env file.
 
 ```bash
 cp example.env .env
